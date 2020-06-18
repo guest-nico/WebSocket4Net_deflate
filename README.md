@@ -12,7 +12,7 @@ Copyright (c) 2012 Kerry Jiang様
 licensed under the Apache License 2.0  
 <https://github.com/kerryjiang/SuperSocket/blob/master/LICENSE>  
 
-変更箇所
+変更箇所  
 WebSocket4Net/Command/Text.cs  
 WebSocket4Net/Common/ArraySegmentList.cs  
 WebSocket4Net/MessageReceivedEventArgs.cs  
